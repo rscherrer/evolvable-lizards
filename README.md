@@ -4,5 +4,5 @@ Mirror to studies of the effect of sexual selection on evolvability in _Anolis_ 
 
 ## Links
 
-* https://github.com/rscherrer/dominican-lizards
-* https://github.com/rscherrer/florida-lizards
+* https://github.com/rscherrer/evolvable-lizards-dominican
+* https://github.com/rscherrer/evolvable-lizards-florida
